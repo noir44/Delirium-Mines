@@ -1,0 +1,15 @@
+{
+	"Sandbox_DelMines": "Delirium Mines",
+	"Sandbox_DelMines_Capacity": "Запас, ударів",
+	"Sandbox_DelMines_Capacity_tooltip": "Скільки ударів у повному руднику. Кожен удар дає один предмет і знімає один удар із запасу.",
+	"Sandbox_DelMines_RegenPerHour": "Відновлення за ігрову годину",
+	"Sandbox_DelMines_RegenPerHour_tooltip": "Скільки ударів повертається кожному руднику за ігрову годину, до повного запасу. 0 — поповнює лише адмін.",
+	"Sandbox_DelMines_HitTimePercent": "Час удару, відсотків від ванілі",
+	"Sandbox_DelMines_HitTimePercent_tooltip": "100 — як розбити ванільну рудну брилу (300 тіків мінус 10 за рівень Сили). 50 — удвічі швидше.",
+	"Sandbox_DelMines_XpPerHit": "Досвід мулярства за удар",
+	"Sandbox_DelMines_XpPerHit_tooltip": "Ваніль дає 5 за кожен камінь, вибитий із брили.",
+	"Sandbox_DelMines_QuarryTable": "Таблиця випадіння кар'єру",
+	"Sandbox_DelMines_QuarryTable_tooltip": "Пари предмет:вага через крапку з комою; шанс — вага, поділена на суму ваг. Нечитана таблиця замінюється таблицею за замовчуванням.",
+	"Sandbox_DelMines_MineTable": "Таблиця випадіння рудника",
+	"Sandbox_DelMines_MineTable_tooltip": "Пари предмет:вага через крапку з комою; шанс — вага, поділена на суму ваг. Нечитана таблиця замінюється таблицею за замовчуванням."
+}

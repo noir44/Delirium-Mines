@@ -1,0 +1,8 @@
+name=Delirium Mines
+poster=poster.png
+pack=delmines
+tiledef=delmines 1717
+id=DelMines
+description=Admin-placed 3x3 rock faces: a limestone quarry and an ore mine. Players work the face with a pickaxe; every hit gives one vanilla item (limestone, clay, stone, iron or copper ore). Each mine holds a stock of hits that refills every game hour. Build 42.
+tags=Build 42
+versionMin=42.13

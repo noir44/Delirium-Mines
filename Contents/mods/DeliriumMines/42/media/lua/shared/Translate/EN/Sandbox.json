@@ -1,0 +1,15 @@
+{
+	"Sandbox_DelMines": "Delirium Mines",
+	"Sandbox_DelMines_Capacity": "Stock, hits",
+	"Sandbox_DelMines_Capacity_tooltip": "How many hits a mine holds when full. Every hit gives one item and takes one from the stock.",
+	"Sandbox_DelMines_RegenPerHour": "Refill per game hour",
+	"Sandbox_DelMines_RegenPerHour_tooltip": "Hits added back to every mine each game hour, up to the full stock. 0: a mine refills only when an admin does it.",
+	"Sandbox_DelMines_HitTimePercent": "Hit time, percent of vanilla",
+	"Sandbox_DelMines_HitTimePercent_tooltip": "100 = as long as breaking a vanilla ore boulder (300 ticks less 10 per Strength level). 50 is twice as fast.",
+	"Sandbox_DelMines_XpPerHit": "Masonry XP per hit",
+	"Sandbox_DelMines_XpPerHit_tooltip": "Vanilla gives 5 per stone broken out of a boulder.",
+	"Sandbox_DelMines_QuarryTable": "Quarry drop table",
+	"Sandbox_DelMines_QuarryTable_tooltip": "Item:weight pairs separated by semicolons; the chance is weight over the sum. A table that cannot be read falls back to the default.",
+	"Sandbox_DelMines_MineTable": "Ore mine drop table",
+	"Sandbox_DelMines_MineTable_tooltip": "Item:weight pairs separated by semicolons; the chance is weight over the sum. A table that cannot be read falls back to the default."
+}

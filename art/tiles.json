@@ -1,0 +1,368 @@
+{
+  "pack": "delmines",
+  "tileset": "delmines_01",
+  "columns": 8,
+  "rows": 8,
+  "tiles": [
+    {
+      "index": 0,
+      "png": "frames/delmines_01_0.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 1,
+      "png": "frames/delmines_01_1.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 2,
+      "png": "frames/delmines_01_2.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 3,
+      "png": "frames/delmines_01_3.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 4,
+      "png": "frames/delmines_01_4.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 5,
+      "png": "frames/delmines_01_5.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 6,
+      "png": "frames/delmines_01_6.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 7,
+      "png": "frames/delmines_01_7.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 8,
+      "png": "frames/delmines_01_8.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 9,
+      "png": "frames/delmines_01_9.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 10,
+      "png": "frames/delmines_01_10.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 11,
+      "png": "frames/delmines_01_11.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 12,
+      "png": "frames/delmines_01_12.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 13,
+      "png": "frames/delmines_01_13.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 14,
+      "png": "frames/delmines_01_14.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 15,
+      "png": "frames/delmines_01_15.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 16,
+      "png": "frames/delmines_01_16.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 17,
+      "png": "frames/delmines_01_17.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Quarry",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 18,
+      "png": "frames/delmines_01_18.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 19,
+      "png": "frames/delmines_01_19.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 20,
+      "png": "frames/delmines_01_20.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 21,
+      "png": "frames/delmines_01_21.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 22,
+      "png": "frames/delmines_01_22.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 23,
+      "png": "frames/delmines_01_23.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 24,
+      "png": "frames/delmines_01_24.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 25,
+      "png": "frames/delmines_01_25.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 26,
+      "png": "frames/delmines_01_26.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 27,
+      "png": "frames/delmines_01_27.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 28,
+      "png": "frames/delmines_01_28.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 29,
+      "png": "frames/delmines_01_29.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 30,
+      "png": "frames/delmines_01_30.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 31,
+      "png": "frames/delmines_01_31.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 32,
+      "png": "frames/delmines_01_32.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 33,
+      "png": "frames/delmines_01_33.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 34,
+      "png": "frames/delmines_01_34.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    },
+    {
+      "index": 35,
+      "png": "frames/delmines_01_35.png",
+      "props": {
+        "BlocksPlacement": "",
+        "CustomName": "Mine",
+        "GroupName": "Delirium",
+        "solidtrans": ""
+      }
+    }
+  ]
+}

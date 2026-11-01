@@ -1,0 +1,63 @@
+VERSION = 1,
+
+option DelMines.Capacity
+{
+	type = integer,
+	min = 1,
+	max = 100000,
+	default = 200,
+
+	page = DelMines,
+	translation = DelMines_Capacity,
+}
+
+option DelMines.RegenPerHour
+{
+	type = integer,
+	min = 0,
+	max = 10000,
+	default = 5,
+
+	page = DelMines,
+	translation = DelMines_RegenPerHour,
+}
+
+option DelMines.HitTimePercent
+{
+	type = integer,
+	min = 1,
+	max = 1000,
+	default = 100,
+
+	page = DelMines,
+	translation = DelMines_HitTimePercent,
+}
+
+option DelMines.XpPerHit
+{
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 5,
+
+	page = DelMines,
+	translation = DelMines_XpPerHit,
+}
+
+option DelMines.QuarryTable
+{
+	type = string,
+	default = Base.Limestone:40; Base.Stone2:30; Base.Clay:20; Base.LargeStone:10,
+
+	page = DelMines,
+	translation = DelMines_QuarryTable,
+}
+
+option DelMines.MineTable
+{
+	type = string,
+	default = Base.IronOre:30; Base.CopperOre:10; Base.Stone2:60,
+
+	page = DelMines,
+	translation = DelMines_MineTable,
+}

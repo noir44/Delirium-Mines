@@ -1,0 +1,15 @@
+{
+	"Sandbox_DelMines": "Delirium Mines",
+	"Sandbox_DelMines_Capacity": "Запас, ударов",
+	"Sandbox_DelMines_Capacity_tooltip": "Сколько ударов в полном руднике. Каждый удар даёт один предмет и снимает один удар с запаса.",
+	"Sandbox_DelMines_RegenPerHour": "Восстановление за игровой час",
+	"Sandbox_DelMines_RegenPerHour_tooltip": "Сколько ударов возвращается каждому руднику за игровой час, до полного запаса. 0 — пополняет только админ.",
+	"Sandbox_DelMines_HitTimePercent": "Время удара, процентов от ванили",
+	"Sandbox_DelMines_HitTimePercent_tooltip": "100 — как разбить ванильный рудный валун (300 тиков минус 10 за уровень Силы). 50 — вдвое быстрее.",
+	"Sandbox_DelMines_XpPerHit": "Опыт каменщика за удар",
+	"Sandbox_DelMines_XpPerHit_tooltip": "Ваниль даёт 5 за каждый камень, выбитый из валуна.",
+	"Sandbox_DelMines_QuarryTable": "Таблица выпадения карьера",
+	"Sandbox_DelMines_QuarryTable_tooltip": "Пары предмет:вес через точку с запятой; шанс — вес, делённый на сумму весов. Нечитаемая таблица заменяется таблицей по умолчанию.",
+	"Sandbox_DelMines_MineTable": "Таблица выпадения рудника",
+	"Sandbox_DelMines_MineTable_tooltip": "Пары предмет:вес через точку с запятой; шанс — вес, делённый на сумму весов. Нечитаемая таблица заменяется таблицей по умолчанию."
+}
