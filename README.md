@@ -22,4 +22,4 @@ Limestone is rare in the world and its boulders do not come back; this mod gives
 | `QuarryTable` | `Base.Limestone:40; Base.Stone2:30; Base.Clay:20; Base.LargeStone:10` | item:weight pairs |
 | `MineTable` | `Base.IronOre:30; Base.CopperOre:10; Base.Stone2:60` | item:weight pairs |
 
-Tiles: pack `delmines`, `tiledef=delmines 1717`. The rock art is a placeholder for now (`art/make_placeholder.py`).
+Tiles: pack `delmines`, `tiledef=delmines 1717`. Art: concept (gpt-image) -> Meshy model -> `art/render_rock.py` (Blender, PZ camera, one render of the whole 3x3 plus a cell mask) -> `art/cut_rock.py` (nine frames per rock). `art/make_placeholder.py` writes `art/tiles.json` (and the old placeholder frames).
