@@ -1,4 +1,5 @@
 version=1
+id=3832094091
 title=Delirium Mines
 description=Admin-placed limestone quarries and ore mines worked with a pickaxe. Build 42.
 tags=Build 42
